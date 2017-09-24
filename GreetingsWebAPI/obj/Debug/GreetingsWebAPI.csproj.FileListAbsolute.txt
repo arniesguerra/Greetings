@@ -1,0 +1,17 @@
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\GreetingsWebAPI.dll.config
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\GreetingsWebAPI.dll
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\GreetingsWebAPI.pdb
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\Newtonsoft.Json.dll
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\System.Web.Http.dll
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\Newtonsoft.Json.xml
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\System.Web.Http.xml
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\obj\Debug\GreetingsWebAPI.csprojResolveAssemblyReference.cache
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\obj\Debug\GreetingsWebAPI.csproj.CoreCompileInputs.cache
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\obj\Debug\GreetingsWebAPI.dll
+C:\Arnold\Projects\Greetings\GreetingsWebAPI\obj\Debug\GreetingsWebAPI.pdb

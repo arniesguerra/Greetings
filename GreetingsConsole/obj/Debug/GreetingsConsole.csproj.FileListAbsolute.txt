@@ -1,0 +1,15 @@
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\GreetingsConsole.exe.config
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\GreetingsConsole.exe
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\GreetingsConsole.pdb
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\System.Net.Http.dll
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\System.Net.Http.Extensions.dll
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\System.Net.Http.Formatting.dll
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\System.Net.Http.Primitives.dll
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\System.Net.Http.xml
+C:\Arnold\Projects\Greetings\GreetingsConsole\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Arnold\Projects\Greetings\GreetingsConsole\obj\Debug\GreetingsConsole.csprojResolveAssemblyReference.cache
+C:\Arnold\Projects\Greetings\GreetingsConsole\obj\Debug\GreetingsConsole.csproj.CoreCompileInputs.cache
+C:\Arnold\Projects\Greetings\GreetingsConsole\obj\Debug\GreetingsConsole.exe
+C:\Arnold\Projects\Greetings\GreetingsConsole\obj\Debug\GreetingsConsole.pdb
